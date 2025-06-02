@@ -112,7 +112,6 @@ In the project directory, you can run:
 - [ ] Implement message persistence
 - [ ] Add typing indicators
 - [ ] Support for file attachments
-- [ ] Add emoji support
 - [ ] Implement dark mode
 
 ## Troubleshooting
@@ -132,13 +131,5 @@ In the project directory, you can run:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- React.js team for the amazing framework
-- Create React App for the project setup
-- All contributors who have helped with the project
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/react-chatbot](https://github.com/yourusername/react-chatbot)
